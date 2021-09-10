@@ -22,9 +22,9 @@ Projeto desenvolvido no curso de Desenvolvimento de Software da Trybe onde a pro
 
 1. Clone o repositório
 
-   - `git clone https://github.com/tryber/sd-09-project-webchat.git`.
-   - Entre na pasta do repositório que você acabou de clonar:
-     - `cd sd-09-project-webchat`
+   ```sh
+   git clone https://github.com/nathaliaveneziano/sd-09-project-webchat.git
+   ```
 
 2. Crie uma branch a partir da branch `master`
 
