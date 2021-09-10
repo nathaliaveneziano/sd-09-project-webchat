@@ -1,4 +1,4 @@
-### Projeto WebChat!
+# Projeto WebChat!
 
 Projeto desenvolvido no curso de Desenvolvimento de Software da Trybe onde a proposta era desenvolver um chat online onde o usuário deveria ser capaz de:
 
@@ -9,7 +9,7 @@ Projeto desenvolvido no curso de Desenvolvimento de Software da Trybe onde a pro
 
 ---
 
-# Habilidades
+## Habilidades
 
 - Desenvolver backend em `Node.js`;
 - Utilizar a estrutura `MVC`;
@@ -18,7 +18,7 @@ Projeto desenvolvido no curso de Desenvolvimento de Software da Trybe onde a pro
 
 ---
 
-# Instruções para utilização:
+## Instruções para utilização:
 
 1. Clone o repositório
 
